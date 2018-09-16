@@ -1,0 +1,44 @@
+_repo: Buddhist-birth-stories-or-Jataka-tales-Volume-1_51880
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Davids, T. W. Rhys (Thomas William Rhys)
+    aliases:
+    - Davids, Thomas William Rhys
+    - Rhys Davids, T. W. (Thomas William)
+    - Davis, T. W. Rhys (Thomas William Rhys)
+    birthdate: 1843
+    deathdate: 1922
+    gutenberg_agent_id: '46588'
+    url: http://www.gutenberg.org/2009/agents/46588
+  - agent_name: Childers, Robert Cæsar
+    birthdate: 1838
+    deathdate: 1876
+    gutenberg_agent_id: '49170'
+    url: http://www.gutenberg.org/2009/agents/49170
+creator:
+  editor:
+    agent_name: Fausbøll, V. (Viggo)
+    aliases:
+    - Fausboll, V. (Viggo)
+    - Fausböll, V.
+    - Fausbøll, Michael Viggo
+    birthdate: 1821
+    deathdate: 1908
+    gutenberg_agent_id: '46587'
+    url: http://www.gutenberg.org/2009/agents/46587
+description: No more published.
+gutenberg_issued: '2016-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51880'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jataka stories, English'
+- !lcc 'BL'
+- GITenberg
+title: Buddhist birth stories; or, Jataka tales, Volume 1
+url: http://www.gutenberg.org/ebooks/51880
