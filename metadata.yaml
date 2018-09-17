@@ -1,5 +1,5 @@
 _repo: Buddhist-birth-stories-or-Jataka-tales-Volume-1_51880
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Davids, T. W. Rhys (Thomas William Rhys)
@@ -16,6 +16,9 @@ contributor:
     deathdate: 1876
     gutenberg_agent_id: '49170'
     url: http://www.gutenberg.org/2009/agents/49170
+covers:
+- cover_type: archival
+  image_path: 51880-h/images/cover.jpg
 creator:
   editor:
     agent_name: Fausbøll, V. (Viggo)
@@ -28,6 +31,8 @@ creator:
     gutenberg_agent_id: '46587'
     url: http://www.gutenberg.org/2009/agents/46587
 description: No more published.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51880#Buddhist-birth-stories-or-Jataka-tales-Volume-1
 gutenberg_issued: '2016-04-28'
 gutenberg_type: Text
 identifiers:
